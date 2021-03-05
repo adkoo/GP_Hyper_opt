@@ -1,0 +1,7 @@
+matplotlib==3.1.3
+numpy==1.16.4
+tensorflow==2.4.1
+scipy==1.2.1
+GPy==1.9.9
+progressbar33==2.4
+scikit_learn==0.24.1
